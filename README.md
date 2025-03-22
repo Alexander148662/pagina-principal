@@ -17,7 +17,7 @@
 
 <div class="container">
     <section class="about-me">
-        <img src="IMG-20250321-WA0036.jpg" alt="Sua Foto">
+        <img src="https://www.instagram.com/p/DF5LOfouv1p/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
         <div>
             <h2>Sobre Mim</h2>
             <strong> Olá! Meu nome é Alexandre Francisco Adula . Sou apaixonado(a) por tecnologia, design e inovação. Estou sempre buscando aprender coisas novas e me aprimorar nas áreas de programação, design de interfaces e desenvolvimento web. Adoro trabalhar em projetos criativos e estou sempre em busca de desafios que me permitam crescer profissionalmente.</strong>
