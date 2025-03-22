@@ -17,7 +17,7 @@
 
 <div class="container">
     <section class="about-me">
-        <img src="https://www.instagram.com/p/DF5LOfouv1p/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+        <img src="IMG-20250321-WA0036.jpg" alt="Sua Foto">
         <div>
             <h2>Sobre Mim</h2>
             <strong> Olá! Meu nome é Alexandre Francisco Adula . Sou apaixonado(a) por tecnologia, design e inovação. Estou sempre buscando aprender coisas novas e me aprimorar nas áreas de programação, design de interfaces e desenvolvimento web. Adoro trabalhar em projetos criativos e estou sempre em busca de desafios que me permitam crescer profissionalmente.</strong>
@@ -78,7 +78,7 @@
     
             <label for="mensagem">Mensagem:</label>
             <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
-    
+    <a href="1  pag.html" class="button"> Voltar</a>
             <button type="submit">Enviar</button>
         </form>
     </section>
@@ -93,6 +93,22 @@
 
 
     }
+
+    .button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #071408;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 15px;
+  font-size: 10px;
+}
+
+.botao:hover {
+  background-color: #45a049;
+}
+
 
     ul {
         list-style-type: square;
@@ -130,6 +146,7 @@
         background-color: #365f91;
     }
     
+   
     </style>
 
 </div>
@@ -142,5 +159,7 @@
 
 </body>
 </html>
+
+
 
 
